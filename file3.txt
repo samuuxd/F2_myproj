@@ -4,3 +4,11 @@ Este é o exemplo de um ficheiro de texto file 3
 
 
 Novas linhas!!
+
+~ Lista de Coisas ~
+
+// Bebidas
+
+> Café
+> Chá
+> Leite
