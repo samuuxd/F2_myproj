@@ -7,6 +7,12 @@ Novas linhas!!
 
 ~ Lista de Coisas ~
 
+// Bebidas
+
+> Café
+> Chá
+> Leite
+
 // Comidas
 
 > Bolos
