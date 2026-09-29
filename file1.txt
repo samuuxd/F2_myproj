@@ -1,17 +1,1 @@
-Eliminei esta linha no file1 e escrevi isto...
-
-
-
-
-
-
-
-
-
-
-Além disso criei mais linhas
-
-
-
-
-+
+Este é o exemplo de um ficheiro de texto no file 1
