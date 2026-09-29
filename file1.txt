@@ -18,3 +18,4 @@ Além disso criei mais linhas
 
 
 + Alterações efetuadas no branch NovaFeature
++ Alteração no branch master
